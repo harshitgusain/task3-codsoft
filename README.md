@@ -1,4 +1,5 @@
-# Author: Harshit singh gusain
+# Iris Flower Classification
+# Author: Harshit gusain
 # Batch: July
 # Domain: Data Science
 
